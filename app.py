@@ -10,10 +10,11 @@ def template(data):
     Question:
     Answer:
     '''
-    title = data['question']
+    title = '<b>' + data['question'] + '</b>'
     body = data['answer']
+    tags = '<code>' + ','.join(data['tags']) + '</code>'
 
-    return title + '\n' + body
+    return title + '\n\n' + body + '\n\n' + tags
 
 
 BASE_URL = "https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/data/questions.json"

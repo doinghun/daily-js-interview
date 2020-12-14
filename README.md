@@ -1,7 +1,3 @@
-# 코로나 텔레그램 알림이
+# Daily Interview Bot
 
-```sh
-$ export TELEGRAM_TOKEN=''
-$ export CHAT_ID=''
-```
-
+Source: https://github.com/30-seconds/30-seconds-of-interviews/tree/master/questions
