@@ -1,13 +1,45 @@
+import requests as rq
+import json
 from bs4 import BeautifulSoup
-import requests
 from markdownify import markdownify as md
 
+interview_data = []
 
-def getData(tags):
+
+def main():
+    getDataFEHandbook()
+    getData30Seconds()
+    saveToFile(interview_data)
+
+
+def saveToFile(data):
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+
+def get_url(url):
+    res = rq.get(url)
+    return res.content
+
+
+def get_json_from_url(url):
+    content = get_url(url)
+    js = json.loads(content)
+    return js
+
+
+def getData30Seconds():
+    BASE_URL = "https://raw.githubusercontent.com/30-seconds/30-seconds-of-interviews/master/data/questions.json"
+    data = get_json_from_url(BASE_URL)
+    interview_data.extend(data)
+
+
+def getDataFEHandbook():
+    tags = ['html', 'css', 'javascript']
     data = []
     for tag in tags:
         url = 'https://yangshun.github.io/front-end-interview-handbook/en/' + tag + '-questions'
-        page = requests.get(url)
+        page = rq.get(url)
         soup = BeautifulSoup(page.text, 'html.parser')
         titles = []
         contents = []
@@ -16,20 +48,13 @@ def getData(tags):
             if title.text != 'Other Answers#':
                 titles.append(title.text)
                 contents.append(url + title.find('a', href=True)['href'])
-            # for a in text.find_all('a', href=True):
-            #     print(a['href'])
-
-        # for content in soup.find('h3').next_siblings:
-        #     if content.name == "h3":
-        #         contents.append(curContent)
-        #         curContent = []
-        #         continue
-        #     else:
-        #         curContent.append(md(str(content) + '\n'))
 
         for num, i in enumerate(titles):
             curData = {"question": titles[num],
                        "answer": contents[num],
                        "tags": [tag]}
             data.append(curData)
-    return data
+    interview_data.extend(data)
+
+
+main()
