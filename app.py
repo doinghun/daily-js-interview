@@ -2,16 +2,14 @@ import requests as rq
 import json
 import random
 
-# from noti import send
-from data import get_json_from_url
+from noti import send
 
 
 def main():
     final_data = readData()
     rand_num = random.randint(0, len(final_data))
     selected_data = template(final_data[rand_num])
-    print(selected_data)
-    # send(selected_data)
+    send(selected_data)
 
 
 def readData():
