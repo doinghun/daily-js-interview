@@ -27,3 +27,4 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           python app.py
+          python data.py
