@@ -38,7 +38,7 @@ def getDataFEHandbook():
     tags = ['html', 'css', 'javascript']
     data = []
     for tag in tags:
-        url = 'https://yangshun.github.io/front-end-interview-handbook/en/' + tag + '-questions'
+        url = 'https://frontendinterviewhandbook.com/' + tag + '-questions'
         page = rq.get(url)
         soup = BeautifulSoup(page.text, 'html.parser')
         titles = []
