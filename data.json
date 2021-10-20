@@ -1,672 +1,672 @@
 [
     {
         "question": "What does a DOCTYPE do?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#what-does-a-doctype-do",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#what-does-a-doctype-do",
         "tags": [
             "html"
         ]
     },
     {
         "question": "How do you serve a page with content in multiple languages?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#how-do-you-serve-a-page-with-content-in-multiple-languages",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#how-do-you-serve-a-page-with-content-in-multiple-languages",
         "tags": [
             "html"
         ]
     },
     {
         "question": "What kind of things must you be wary of when designing or developing for multilingual sites?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#what-kind-of-things-must-you-be-wary-of-when-designing-or-developing-for-multilingual-sites",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#what-kind-of-things-must-you-be-wary-of-when-designing-or-developing-for-multilingual-sites",
         "tags": [
             "html"
         ]
     },
     {
         "question": "What are data- attributes good for?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#what-are-data--attributes-good-for",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#what-are-data--attributes-good-for",
         "tags": [
             "html"
         ]
     },
     {
         "question": "Consider HTML5 as an open web platform. What are the building blocks of HTML5?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5",
         "tags": [
             "html"
         ]
     },
     {
         "question": "Describe the difference between a cookie, sessionStorage and localStorage.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#describe-the-difference-between-a-cookie-sessionstorage-and-localstorage",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#describe-the-difference-between-a-cookie-sessionstorage-and-localstorage",
         "tags": [
             "html"
         ]
     },
     {
         "question": "Describe the difference between <script>, <script async> and <script defer>.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#describe-the-difference-between-script-script-async-and-script-defer",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#describe-the-difference-between-script-script-async-and-script-defer",
         "tags": [
             "html"
         ]
     },
     {
         "question": "Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#why-is-it-generally-a-good-idea-to-position-css-links-between-headhead-and-js-scripts-just-before-body-do-you-know-any-exceptions",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#why-is-it-generally-a-good-idea-to-position-css-links-between-headhead-and-js-scripts-just-before-body-do-you-know-any-exceptions",
         "tags": [
             "html"
         ]
     },
     {
         "question": "What is progressive rendering?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#what-is-progressive-rendering",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#what-is-progressive-rendering",
         "tags": [
             "html"
         ]
     },
     {
         "question": "Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#why-you-would-use-a-srcset-attribute-in-an-image-tag-explain-the-process-the-browser-uses-when-evaluating-the-content-of-this-attribute",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#why-you-would-use-a-srcset-attribute-in-an-image-tag-explain-the-process-the-browser-uses-when-evaluating-the-content-of-this-attribute",
         "tags": [
             "html"
         ]
     },
     {
         "question": "Have you used different HTML templating languages before?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/html-questions#have-you-used-different-html-templating-languages-before",
+        "answer": "https://frontendinterviewhandbook.com/html-questions#have-you-used-different-html-templating-languages-before",
         "tags": [
             "html"
         ]
     },
     {
         "question": "What is CSS selector specificity and how does it work?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-is-css-selector-specificity-and-how-does-it-work",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-is-css-selector-specificity-and-how-does-it-work",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What's the difference between \"resetting\" and \"normalizing\" CSS? Which would you choose, and why?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#whats-the-difference-between-resetting-and-normalizing-css-which-would-you-choose-and-why",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#whats-the-difference-between-resetting-and-normalizing-css-which-would-you-choose-and-why",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Describe floats and how they work.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#describe-floats-and-how-they-work",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#describe-floats-and-how-they-work",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Describe z-index and how stacking context is formed.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#describe-z-index-and-how-stacking-context-is-formed",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#describe-z-index-and-how-stacking-context-is-formed",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Describe Block Formatting Context (BFC) and how it works.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#describe-block-formatting-context-bfc-and-how-it-works",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#describe-block-formatting-context-bfc-and-how-it-works",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What are the various clearing techniques and which is appropriate for what context?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-are-the-various-clearing-techniques-and-which-is-appropriate-for-what-context",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-are-the-various-clearing-techniques-and-which-is-appropriate-for-what-context",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Explain CSS sprites, and how you would implement them on a page or site.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#explain-css-sprites-and-how-you-would-implement-them-on-a-page-or-site",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#explain-css-sprites-and-how-you-would-implement-them-on-a-page-or-site",
         "tags": [
             "css"
         ]
     },
     {
         "question": "How would you approach fixing browser-specific styling issues?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#how-would-you-approach-fixing-browser-specific-styling-issues",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#how-would-you-approach-fixing-browser-specific-styling-issues",
         "tags": [
             "css"
         ]
     },
     {
         "question": "How do you serve your pages for feature-constrained browsers? What techniques/processes do you use?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#how-do-you-serve-your-pages-for-feature-constrained-browsers-what-techniquesprocesses-do-you-use",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#how-do-you-serve-your-pages-for-feature-constrained-browsers-what-techniquesprocesses-do-you-use",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What are the different ways to visually hide content (and make it available only for screen readers)?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-are-the-different-ways-to-visually-hide-content-and-make-it-available-only-for-screen-readers",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-are-the-different-ways-to-visually-hide-content-and-make-it-available-only-for-screen-readers",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Have you ever used a grid system, and if so, what do you prefer?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#have-you-ever-used-a-grid-system-and-if-so-what-do-you-prefer",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#have-you-ever-used-a-grid-system-and-if-so-what-do-you-prefer",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Have you used or implemented media queries or mobile-specific layouts/CSS?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#have-you-used-or-implemented-media-queries-or-mobile-specific-layoutscss",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#have-you-used-or-implemented-media-queries-or-mobile-specific-layoutscss",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Are you familiar with styling SVG?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#are-you-familiar-with-styling-svg",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#are-you-familiar-with-styling-svg",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Can you give an example of an @media property other than screen?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#can-you-give-an-example-of-an-media-property-other-than-screen",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#can-you-give-an-example-of-an-media-property-other-than-screen",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What are some of the \"gotchas\" for writing efficient CSS?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-are-some-of-the-gotchas-for-writing-efficient-css",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-are-some-of-the-gotchas-for-writing-efficient-css",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What are the advantages/disadvantages of using CSS preprocessors?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-are-the-advantagesdisadvantages-of-using-css-preprocessors",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-are-the-advantagesdisadvantages-of-using-css-preprocessors",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Describe what you like and dislike about the CSS preprocessors you have used.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#describe-what-you-like-and-dislike-about-the-css-preprocessors-you-have-used",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#describe-what-you-like-and-dislike-about-the-css-preprocessors-you-have-used",
         "tags": [
             "css"
         ]
     },
     {
         "question": "How would you implement a web design comp that uses non-standard fonts?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#how-would-you-implement-a-web-design-comp-that-uses-non-standard-fonts",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#how-would-you-implement-a-web-design-comp-that-uses-non-standard-fonts",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Explain how a browser determines what elements match a CSS selector.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#explain-how-a-browser-determines-what-elements-match-a-css-selector",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#explain-how-a-browser-determines-what-elements-match-a-css-selector",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Describe pseudo-elements and discuss what they are used for.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#describe-pseudo-elements-and-discuss-what-they-are-used-for",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#describe-pseudo-elements-and-discuss-what-they-are-used-for",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#explain-your-understanding-of-the-box-model-and-how-you-would-tell-the-browser-in-css-to-render-your-layout-in-different-box-models",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#explain-your-understanding-of-the-box-model-and-how-you-would-tell-the-browser-in-css-to-render-your-layout-in-different-box-models",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What does * { box-sizing: border-box; } do? What are its advantages?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-does---box-sizing-border-box--do-what-are-its-advantages",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-does---box-sizing-border-box--do-what-are-its-advantages",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What is the CSS display property and can you give a few examples of its use?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-is-the-css-display-property-and-can-you-give-a-few-examples-of-its-use",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-is-the-css-display-property-and-can-you-give-a-few-examples-of-its-use",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What's the difference between inline and inline-block?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#whats-the-difference-between-inline-and-inline-block",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#whats-the-difference-between-inline-and-inline-block",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What's the difference between a relative, fixed, absolute and statically positioned element?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#whats-the-difference-between-a-relative-fixed-absolute-and-statically-positioned-element",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#whats-the-difference-between-a-relative-fixed-absolute-and-statically-positioned-element",
         "tags": [
             "css"
         ]
     },
     {
         "question": "What existing CSS frameworks have you used locally, or in production? How would you change/improve them?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#what-existing-css-frameworks-have-you-used-locally-or-in-production-how-would-you-changeimprove-them",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#what-existing-css-frameworks-have-you-used-locally-or-in-production-how-would-you-changeimprove-them",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Have you played around with the new CSS Flexbox or Grid specs?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#have-you-played-around-with-the-new-css-flexbox-or-grid-specs",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#have-you-played-around-with-the-new-css-flexbox-or-grid-specs",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Can you explain the difference between coding a website to be responsive versus using a mobile-first strategy?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#can-you-explain-the-difference-between-coding-a-website-to-be-responsive-versus-using-a-mobile-first-strategy",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#can-you-explain-the-difference-between-coding-a-website-to-be-responsive-versus-using-a-mobile-first-strategy",
         "tags": [
             "css"
         ]
     },
     {
         "question": "How is responsive design different from adaptive design?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#how-is-responsive-design-different-from-adaptive-design",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#how-is-responsive-design-different-from-adaptive-design",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Have you ever worked with retina graphics? If so, when and what techniques did you use?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#have-you-ever-worked-with-retina-graphics-if-so-when-and-what-techniques-did-you-use",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#have-you-ever-worked-with-retina-graphics-if-so-when-and-what-techniques-did-you-use",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/css-questions#is-there-any-reason-youd-want-to-use-translate-instead-of-absolute-positioning-or-vice-versa-and-why",
+        "answer": "https://frontendinterviewhandbook.com/css-questions#is-there-any-reason-youd-want-to-use-translate-instead-of-absolute-positioning-or-vice-versa-and-why",
         "tags": [
             "css"
         ]
     },
     {
         "question": "Explain event delegation#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-event-delegation",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-event-delegation",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain how this works in JavaScript#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-how-this-works-in-javascript",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-how-this-works-in-javascript",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain how prototypal inheritance works#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-how-prototypal-inheritance-works",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-how-prototypal-inheritance-works",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What do you think of AMD vs CommonJS?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-do-you-think-of-amd-vs-commonjs",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-do-you-think-of-amd-vs-commonjs",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain why the following doesn't work as an IIFE: function foo(){ }();. What needs to be changed to properly make it an IIFE?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-why-the-following-doesnt-work-as-an-iife-function-foo--what-needs-to-be-changed-to-properly-make-it-an-iife",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-why-the-following-doesnt-work-as-an-iife-function-foo--what-needs-to-be-changed-to-properly-make-it-an-iife",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What's the difference between a variable that is: null, undefined or undeclared? How would you go about checking for any of these states?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared-how-would-you-go-about-checking-for-any-of-these-states",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared-how-would-you-go-about-checking-for-any-of-these-states",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What is a closure, and how/why would you use one?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-is-a-closure-and-howwhy-would-you-use-one",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-is-a-closure-and-howwhy-would-you-use-one",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Can you describe the main difference between a .forEach loop and a .map() loop and why you would pick one versus the other?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#can-you-describe-the-main-difference-between-a-foreach-loop-and-a-map-loop-and-why-you-would-pick-one-versus-the-other",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#can-you-describe-the-main-difference-between-a-foreach-loop-and-a-map-loop-and-why-you-would-pick-one-versus-the-other",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What's a typical use case for anonymous functions?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#whats-a-typical-use-case-for-anonymous-functions",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#whats-a-typical-use-case-for-anonymous-functions",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "How do you organize your code? (module pattern, classical inheritance?)#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#how-do-you-organize-your-code-module-pattern-classical-inheritance",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#how-do-you-organize-your-code-module-pattern-classical-inheritance",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What's the difference between host objects and native objects?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#whats-the-difference-between-host-objects-and-native-objects",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#whats-the-difference-between-host-objects-and-native-objects",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Difference between: function Person(){}, var person = Person(), and var person = new Person()?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#difference-between-function-person-var-person--person-and-var-person--new-person",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#difference-between-function-person-var-person--person-and-var-person--new-person",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What's the difference between .call and .apply?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#whats-the-difference-between-call-and-apply",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#whats-the-difference-between-call-and-apply",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain Function.prototype.bind.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-functionprototypebind",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-functionprototypebind",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "When would you use document.write()?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#when-would-you-use-documentwrite",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#when-would-you-use-documentwrite",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What's the difference between feature detection, feature inference, and using the UA string?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#whats-the-difference-between-feature-detection-feature-inference-and-using-the-ua-string",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#whats-the-difference-between-feature-detection-feature-inference-and-using-the-ua-string",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain Ajax in as much detail as possible.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-ajax-in-as-much-detail-as-possible",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-ajax-in-as-much-detail-as-possible",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What are the advantages and disadvantages of using Ajax?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-are-the-advantages-and-disadvantages-of-using-ajax",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-are-the-advantages-and-disadvantages-of-using-ajax",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain how JSONP works (and how it's not really Ajax).#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-how-jsonp-works-and-how-its-not-really-ajax",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-how-jsonp-works-and-how-its-not-really-ajax",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Have you ever used JavaScript templating? If so, what libraries have you used?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#have-you-ever-used-javascript-templating-if-so-what-libraries-have-you-used",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#have-you-ever-used-javascript-templating-if-so-what-libraries-have-you-used",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain \"hoisting\".#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-hoisting",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-hoisting",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Describe event bubbling.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#describe-event-bubbling",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#describe-event-bubbling",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What's the difference between an \"attribute\" and a \"property\"?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#whats-the-difference-between-an-attribute-and-a-property",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#whats-the-difference-between-an-attribute-and-a-property",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Why is extending built-in JavaScript objects not a good idea?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#why-is-extending-built-in-javascript-objects-not-a-good-idea",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#why-is-extending-built-in-javascript-objects-not-a-good-idea",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Difference between document load event and document DOMContentLoaded event?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#difference-between-document-load-event-and-document-domcontentloaded-event",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#difference-between-document-load-event-and-document-domcontentloaded-event",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What is the difference between == and ===?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-is-the-difference-between--and-",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-is-the-difference-between--and-",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain the same-origin policy with regards to JavaScript.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-the-same-origin-policy-with-regards-to-javascript",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-the-same-origin-policy-with-regards-to-javascript",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Make this work:#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#make-this-work",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#make-this-work",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Why is it called a Ternary expression, what does the word \"Ternary\" indicate?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#why-is-it-called-a-ternary-expression-what-does-the-word-ternary-indicate",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#why-is-it-called-a-ternary-expression-what-does-the-word-ternary-indicate",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What is \"use strict\";? What are the advantages and disadvantages to using it?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-is-use-strict-what-are-the-advantages-and-disadvantages-to-using-it",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-is-use-strict-what-are-the-advantages-and-disadvantages-to-using-it",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Create a for loop that iterates up to 100 while outputting \"fizz\" at multiples of 3, \"buzz\" at multiples of 5 and \"fizzbuzz\" at multiples of 3 and 5.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#create-a-for-loop-that-iterates-up-to-100-while-outputting-fizz-at-multiples-of-3-buzz-at-multiples-of-5-and-fizzbuzz-at-multiples-of-3-and-5",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#create-a-for-loop-that-iterates-up-to-100-while-outputting-fizz-at-multiples-of-3-buzz-at-multiples-of-5-and-fizzbuzz-at-multiples-of-3-and-5",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#why-is-it-in-general-a-good-idea-to-leave-the-global-scope-of-a-website-as-is-and-never-touch-it",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#why-is-it-in-general-a-good-idea-to-leave-the-global-scope-of-a-website-as-is-and-never-touch-it",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#why-would-you-use-something-like-the-load-event-does-this-event-have-disadvantages-do-you-know-any-alternatives-and-why-would-you-use-those",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#why-would-you-use-something-like-the-load-event-does-this-event-have-disadvantages-do-you-know-any-alternatives-and-why-would-you-use-those",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain what a single page app is and how to make one SEO-friendly.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-what-a-single-page-app-is-and-how-to-make-one-seo-friendly",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-what-a-single-page-app-is-and-how-to-make-one-seo-friendly",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What is the extent of your experience with Promises and/or their polyfills?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-is-the-extent-of-your-experience-with-promises-andor-their-polyfills",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-is-the-extent-of-your-experience-with-promises-andor-their-polyfills",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What are the pros and cons of using Promises instead of callbacks?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-are-the-pros-and-cons-of-using-promises-instead-of-callbacks",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-are-the-pros-and-cons-of-using-promises-instead-of-callbacks",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-are-some-of-the-advantagesdisadvantages-of-writing-javascript-code-in-a-language-that-compiles-to-javascript",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-are-some-of-the-advantagesdisadvantages-of-writing-javascript-code-in-a-language-that-compiles-to-javascript",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What tools and techniques do you use for debugging JavaScript code?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-tools-and-techniques-do-you-use-for-debugging-javascript-code",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-tools-and-techniques-do-you-use-for-debugging-javascript-code",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What language constructions do you use for iterating over object properties and array items?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-language-constructions-do-you-use-for-iterating-over-object-properties-and-array-items",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-language-constructions-do-you-use-for-iterating-over-object-properties-and-array-items",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain the difference between mutable and immutable objects.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-the-difference-between-mutable-and-immutable-objects",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-the-difference-between-mutable-and-immutable-objects",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain the difference between synchronous and asynchronous functions.#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-the-difference-between-synchronous-and-asynchronous-functions",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-the-difference-between-synchronous-and-asynchronous-functions",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What is event loop? What is the difference between call stack and task queue?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-is-event-loop-what-is-the-difference-between-call-stack-and-task-queue",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-is-event-loop-what-is-the-difference-between-call-stack-and-task-queue",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Explain the differences on the usage of foo between function foo() {} and var foo = function() {}#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#explain-the-differences-on-the-usage-of-foo-between-function-foo--and-var-foo--function-",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#explain-the-differences-on-the-usage-of-foo-between-function-foo--and-var-foo--function-",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What are the differences between variables created using let, var or const?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-are-the-differences-between-variables-created-using-let-var-or-const",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-are-the-differences-between-variables-created-using-let-var-or-const",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What are the differences between ES6 class and ES5 function constructors?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-are-the-differences-between-es6-class-and-es5-function-constructors",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-are-the-differences-between-es6-class-and-es5-function-constructors",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Can you offer a use case for the new arrow => function syntax? How does this new syntax differ from other functions?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#can-you-offer-a-use-case-for-the-new-arrow--function-syntax-how-does-this-new-syntax-differ-from-other-functions",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#can-you-offer-a-use-case-for-the-new-arrow--function-syntax-how-does-this-new-syntax-differ-from-other-functions",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What advantage is there for using the arrow syntax for a method in a constructor?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-advantage-is-there-for-using-the-arrow-syntax-for-a-method-in-a-constructor",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-advantage-is-there-for-using-the-arrow-syntax-for-a-method-in-a-constructor",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What is the definition of a higher-order function?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-is-the-definition-of-a-higher-order-function",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-is-the-definition-of-a-higher-order-function",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Can you give an example for destructuring an object or an array?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#can-you-give-an-example-for-destructuring-an-object-or-an-array",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#can-you-give-an-example-for-destructuring-an-object-or-an-array",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "ES6 Template Literals offer a lot of flexibility in generating strings, can you give an example?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#es6-template-literals-offer-a-lot-of-flexibility-in-generating-strings-can-you-give-an-example",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#es6-template-literals-offer-a-lot-of-flexibility-in-generating-strings-can-you-give-an-example",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Can you give an example of a curry function and why this syntax offers an advantage?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#can-you-give-an-example-of-a-curry-function-and-why-this-syntax-offers-an-advantage",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#can-you-give-an-example-of-a-curry-function-and-why-this-syntax-offers-an-advantage",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "What are the benefits of using spread syntax and how is it different from rest syntax?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#what-are-the-benefits-of-using-spread-syntax-and-how-is-it-different-from-rest-syntax",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#what-are-the-benefits-of-using-spread-syntax-and-how-is-it-different-from-rest-syntax",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "How can you share code between files?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#how-can-you-share-code-between-files",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#how-can-you-share-code-between-files",
         "tags": [
             "javascript"
         ]
     },
     {
         "question": "Why you might want to create static class members?#",
-        "answer": "https://yangshun.github.io/front-end-interview-handbook/en/javascript-questions#why-you-might-want-to-create-static-class-members",
+        "answer": "https://frontendinterviewhandbook.com/javascript-questions#why-you-might-want-to-create-static-class-members",
         "tags": [
             "javascript"
         ]
